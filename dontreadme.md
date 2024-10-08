@@ -1,4 +1,5 @@
 # Python2A
 ###Hi guys
 
-coucou victor
+Coucou, victor.
+Comment vas-tu 
